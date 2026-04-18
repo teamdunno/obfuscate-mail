@@ -1,1 +1,1 @@
-MOVED TO https://codeberg.org/linusified/obfuscate-mail
+MOVED TO https://codeberg.org/linusified/obfuscatemail
